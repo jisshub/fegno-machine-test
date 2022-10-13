@@ -1,8 +1,12 @@
 .container-part{
     margin: 2rem;
 }
-.form-part {
+.form-part, .table-section {
     width: 50% !important;
     height: 50% !important;
     margin: 0 auto !important;
+}
+
+.table-section {
+    margin-top: 2rem !important;
 }
