@@ -1,0 +1,8 @@
+.container-part{
+    margin: 2rem;
+}
+.form-part {
+    width: 50% !important;
+    height: 50% !important;
+    margin: 0 auto !important;
+}

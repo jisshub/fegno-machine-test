@@ -1,6 +1,6 @@
 import './App.css';
+import "bootstrap/dist/css/bootstrap.css";
 import EmployeeForm from './components/EmployeeForm/EmployeeForm.tsx';
-import Form from './components/Form/Form.tsx';
 
 function App() {
   return (
